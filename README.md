@@ -1,0 +1,1 @@
+This project implements the Caesar Cipher encryption technique using the Java programming language. Caesar Cipher is one of the simplest and most well-known encryption techniques. It works by shifting the letters of the plaintext by a fixed number of positions in the alphabet.
