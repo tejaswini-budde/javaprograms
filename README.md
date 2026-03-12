@@ -21,6 +21,3 @@ Encrypted Text: KHOOR
 - Java
 - Scanner class
 - Basic cryptography logic
-
-## 👩‍💻 Author
-Tejaswini Budde
